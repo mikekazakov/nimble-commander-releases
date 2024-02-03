@@ -1,8 +1,8 @@
 Releases of Nimble Commander:
 | Version | Download URL |
 | --- | --- |
-| 1.4.0 (25 dec 2022) | [nimble-commander-1.4.0(3883).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.4.0(3883).dmg) |
 | 1.5.0 (18 dec 2023) | [nimble-commander-1.5.0(3981).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.5.0(3981).dmg) |
+| 1.4.0 (25 dec 2022) | [nimble-commander-1.4.0(3883).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.4.0(3883).dmg) |
 | 1.3.0 (16 oct 2021) | [nimble-commander-1.3.0(3711).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.3.0(3711).dmg) |
 | 1.2.9 (31 Dec 2020) | [nimble-commander-1.2.9(3532).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.2.9(3532).dmg) |
 | 1.2.7 (29 Jan 2020) | [nimble-commander-1.2.7(3120).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.2.7(3120).dmg) |
