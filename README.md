@@ -1,4 +1,4 @@
-Releases of Nimble Commander:
+## Binary Releases of [Nimble Commander](https://github.com/mikekazakov/nimble-commander) :
 | Version | Download URL |
 | --- | --- |
 | 1.5.0 (18 dec 2023) | [nimble-commander-1.5.0(3981).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.5.0(3981).dmg) |
