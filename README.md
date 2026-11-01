@@ -1,6 +1,7 @@
 ## Binary Releases of [Nimble Commander](https://github.com/mikekazakov/nimble-commander) :
 | Version | Download URL |
 | :--- | :--- |
+| 1.9.0 (1 November 2026) | [nimble-commander-1.9.0(4329).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.9.0(4329).dmg) |
 | 1.8.0 (19 December 2025) | [nimble-commander-1.8.0(4282).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.8.0(4282).dmg) |
 | 1.7.0 (18 December 2024) | [nimble-commander-1.7.0(4198).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.7.0(4198).dmg) |
 | 1.6.1 (23 July 2024) | [nimble-commander-1.6.1(4088).dmg](https://raw.githubusercontent.com/mikekazakov/nimble-commander-releases/main/nimble-commander-1.6.1(4088).dmg) |
